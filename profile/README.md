@@ -1,4 +1,4 @@
-# 👋 Welcome to Smoking Ducks! 👋
+# 👋 Welcome to DoodaDuck! 👋
 
 > **Independent Indie Game Development Studio**
 
@@ -11,9 +11,7 @@ Welcome to our official GitHub organization! We are a duo of passionate dame dev
 We like to make post-apocalyptic style 2D/3D games and are already working on something special.
 
 - 👥 **Founders:** [@LiteDuck1986](https://github.com/LiteDuck1986) & [@VilheIms](https://github.com/VilheIms)
-- **Primary Engines:** Unity / Godot
-- **Primary Tools:** Blender / GitHub
-- **Current Focus:** Developing our first 3D earn-to-die inspired game, using the Unity Game Engine.
+- ✨ **Style:** Post-Apocalyptic / Cozy
 
 ---
 
@@ -27,12 +25,12 @@ We like to make post-apocalyptic style 2D/3D games and are already working on so
 
 ## 📬 Connect With Us
 
-- **Website:** [STILL-IN-PROGRESS](https://github.com/Smoking-Ducks/)
-- **Email:** smokingducks.co@gmail.com
+- **Website:** [STILL-IN-PROGRESS](https://github.com/doodaduck/)
+- **Email:** doodaduck.co@gmail.com
 - **YouTube / Devlogs:** [Watch Our Devlogs](https://www.youtube.com/@LiteDuck1986)
 
 ---
 
 <p center>
-  <i>"PS, we love to smoke dat shi."</i>
+  <i>"PS, we are currently looking for more people, who would like to join our team."</i>
 </p>
